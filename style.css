@@ -90,3 +90,8 @@ body {
 .zero {
     grid-column: span 3;
 }
+
+body {
+    display: flex;
+    gap: 50px;
+}
